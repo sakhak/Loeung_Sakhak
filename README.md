@@ -1,28 +1,35 @@
-<!-- ═══════════════════════════════════════════════════════════
-     HEADER — Animated gradient wave + avatar + typing
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     LOEUNG SAKHAK — GITHUB PROFILE
+     Design System: Deep Navy · Brand Blue · Cyan Accent · Emerald
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,40:1e3a8a,70:3b82f6,100:06b6d4&height=240&section=header&animation=fadeIn&fontAlignY=35" alt="header" />
+<!-- ── Animated gradient banner ─────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,35:1e3a8a,70:3b82f6,100:06b6d4&height=230&section=header&animation=fadeIn" alt="banner" />
 
+<!-- ── Avatar overlapping banner ────────────────────────────── -->
 <a href="https://sakhak-portfolio.vercel.app">
-  <img src="https://github.com/sakhak.png?size=240" 
-       width="160" 
-       height="160" 
-       style="border-radius:50%; border:4px solid #3b82f6; box-shadow:0 0 0 8px rgba(59,130,246,0.15), 0 0 40px rgba(59,130,246,0.5); margin-top:-80px;" 
-       alt="Loeung Sakhak" />
+  <img src="https://github.com/sakhak.png?size=240"
+       width="150" height="150"
+       style="border-radius:50%; border:4px solid #3b82f6;
+              box-shadow:0 0 0 8px rgba(59,130,246,0.15), 0 0 45px rgba(59,130,246,0.55);
+              margin-top:-75px;" alt="Loeung Sakhak" />
 </a>
 
-<h1 align="center" style="margin:16px 0 4px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1&pause=999999&color=3B82F6&center=true&vCenter=true&width=600&lines=Loeung+Sakhak" alt="Loeung Sakhak" />
+<!-- ── Name (single type, holds) ────────────────────────────── -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=999999&color=3B82F6&center=true&vCenter=true&width=650&lines=Loeung+Sakhak" alt="Loeung Sakhak" />
 </h1>
 
+<!-- ── Animated role loop ───────────────────────────────────── -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Spring+Boot;Authentication+%26+RBAC+Specialist;Building+Secure+Scalable+Applications;Open+to+Developer+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Spring+Boot;Authentication+%26+RBAC+Specialist;Building+Secure+Scalable+Applications;Open+to+Developer+Internships" alt="roles" />
 </h3>
 
 <br/>
 
+<!-- ── Badge row ────────────────────────────────────────────── -->
 <a href="https://sakhak-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
@@ -39,12 +46,13 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════
      ABOUT
-     ═══════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
 </div>
 
@@ -54,11 +62,9 @@
 
 <br/>
 
-**Full Stack Developer** & final-year **Management Information System** student at **SETEC Institute**.
+Full Stack Developer and final-year **Management Information System** student at **SETEC Institute**. I build complete web applications — from responsive React interfaces to secure REST APIs and well-designed databases — with a strong focus on **authentication** and **role-based access control (RBAC)**.
 
-I craft end-to-end web applications — from pixel-perfect React interfaces to hardened REST APIs and well-normalized databases. My obsession: **authentication**, **role-based access control (RBAC)**, and **clean, maintainable code**.
-
-I thrive in teams, communicate clearly, and I'm actively looking for a **Developer Internship** where I can ship real products and level up fast.
+I work well in teams, enjoy solving problems, and communicate clearly. I'm looking for a **Developer Internship** where I can contribute to real products and keep growing.
 
 </td>
 <td width="42%" valign="top">
@@ -80,9 +86,10 @@ I thrive in teams, communicate clearly, and I'm actively looking for a **Develop
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════
      TECH STACK
-     ═══════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## ⚡ Tech Arsenal
@@ -95,9 +102,10 @@ I thrive in teams, communicate clearly, and I'm actively looking for a **Develop
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════
      PROJECTS
-     ═══════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 🚀 Featured Work
@@ -109,7 +117,7 @@ I thrive in teams, communicate clearly, and I'm actively looking for a **Develop
 <td width="50%">
 
 ### 🎓 [School Management System](https://github.com/sakhak/SchoolManagementSystem-RBAC)
-Secure school platform with authentication, protected APIs, and role/permission management.
+Secure school platform with authentication, protected APIs, user profiles, and role & permission management.
 
 ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -120,7 +128,7 @@ Secure school platform with authentication, protected APIs, and role/permission 
 <td width="50%">
 
 ### 📋 [Attendance Management](https://github.com/sakhak/Attendance-Management)
-Attendance system with record APIs plus PDF/Excel export and role-based permissions.
+Attendance system with student, teacher, class, enrollment, and record APIs plus PDF/Excel exports.
 
 ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -132,7 +140,7 @@ Attendance system with record APIs plus PDF/Excel export and role-based permissi
 <td width="50%">
 
 ### 📚 [Borrow Books Library](https://github.com/sakhak/Borrow-Books-Library)
-Full-stack library platform with admin dashboard for users, books, and borrowing.
+Full-stack library platform with an admin dashboard to manage users, employees, books, borrowing, and inventory.
 
 ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -142,7 +150,7 @@ Full-stack library platform with admin dashboard for users, books, and borrowing
 <td width="50%">
 
 ### ☕ Spring Boot Project
-Backend built to deepen Java & Spring Boot mastery. Repository coming soon.
+Backend project built to deepen my Java and Spring Boot skills. Repository coming soon.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -153,9 +161,10 @@ Backend built to deepen Java & Spring Boot mastery. Repository coming soon.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════
      EXPERIENCE + EDUCATION
-     ═══════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 💼 Journey
@@ -167,20 +176,20 @@ Backend built to deepen Java & Spring Boot mastery. Repository coming soon.
 <td width="50%" valign="top">
 
 ### 💼 Web Developer Intern
-**Seed Media Solutions** · *Jan – Apr 2025*
+**Seed Media Solutions** · *Jan 2025 – Apr 2025*
 
-- Developed & maintained Laravel applications
-- Built responsive UIs and backend features
-- Worked with MySQL and MVC architecture
-- Fixed bugs & improved performance
+- Developed and maintained web applications using Laravel
+- Built responsive user interfaces and backend features
+- Worked with MySQL databases and MVC architecture
+- Fixed bugs and improved website performance
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 SETEC Institute
-**Management Information System** · *2023 – Present*
+**Management Information System** · *2023 – Present (Year 4)*
 
-Final-year student focused on full-stack development, database design, and secure web systems.
+Final-year student focused on full stack development, database design, and secure web systems.
 
 </td>
 </tr>
@@ -188,9 +197,10 @@ Final-year student focused on full-stack development, database design, and secur
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════
      ANALYTICS
-     ═══════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 📊 GitHub Analytics
@@ -210,20 +220,21 @@ Final-year student focused on full-stack development, database design, and secur
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakhak&bg_color=0a0e27&color=3b82f6&line=06b6d4&point=ffffff&area=true&hide_border=true&radius=12" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakhak&bg_color=0a0e27&color=3b82f6&line=06b6d4&point=ffffff&area=true&hide_border=true&radius=12" alt="Activity" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════
      CONNECT
-     ═══════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 📬 Let's Connect
 
-*Open to internship opportunities and web project collaborations.*
+*Open to internship opportunities and collaboration on web projects.*
 
 <br/>
 
@@ -240,6 +251,6 @@ Final-year student focused on full-stack development, database design, and secur
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,30:3b82f6,70:1e3a8a,100:0a0e27&height=140&section=footer&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,30:3b82f6,70:1e3a8a,100:0a0e27&height=130&section=footer&animation=fadeIn" alt="footer" />
 
 </div>
