@@ -1,36 +1,30 @@
+<!-- ═══════════════════════════════════════════════════════════
+     HEADER — Animated gradient wave + avatar + typing
+     ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<!-- Animated gradient banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&animation=fadeIn" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,40:1e3a8a,70:3b82f6,100:06b6d4&height=240&section=header&animation=fadeIn&fontAlignY=35" alt="header" />
 
-<!-- Avatar + Name side-by-side -->
-<table>
-<tr>
-<td valign="middle" align="center" width="200">
-  <img src="https://github.com/sakhak.png?size=200" 
-       width="170" 
-       height="170" 
-       style="border-radius:50%; border: 4px solid #2563eb; box-shadow: 0 0 30px rgba(37,99,235,0.6);" 
+<a href="https://sakhak-portfolio.vercel.app">
+  <img src="https://github.com/sakhak.png?size=240" 
+       width="160" 
+       height="160" 
+       style="border-radius:50%; border:4px solid #3b82f6; box-shadow:0 0 0 8px rgba(59,130,246,0.15), 0 0 40px rgba(59,130,246,0.5); margin-top:-80px;" 
        alt="Loeung Sakhak" />
-</td>
-<td valign="middle" align="left">
-  <h1 style="margin:0; font-size:42px; color:#2563eb;">
-    Loeung Sakhak
-  </h1>
-  <p style="margin:6px 0 0 0; font-size:17px; color:#94a3b8;">
-    <strong>Full Stack Web Developer</strong>
-  </p>
-  <a href="https://sakhak-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=800&color=3B82F6&vCenter=true&width=460&lines=Building+secure%2C+scalable+web+apps;Laravel+%7C+React+%7C+Spring+Boot;Authentication+%26+RBAC+Specialist;Open+to+Developer+Internships" alt="Typing SVG" />
-  </a>
-</td>
-</tr>
-</table>
+</a>
+
+<h1 align="center" style="margin:16px 0 4px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1&pause=999999&color=3B82F6&center=true&vCenter=true&width=600&lines=Loeung+Sakhak" alt="Loeung Sakhak" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Spring+Boot;Authentication+%26+RBAC+Specialist;Building+Secure+Scalable+Applications;Open+to+Developer+Internships" alt="Typing SVG" />
+</h3>
 
 <br/>
 
 <a href="https://sakhak-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:loeungsakhak438@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -38,37 +32,47 @@
 <a href="https://github.com/sakhak">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/Phnom%20Penh%2C%20Cambodia-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Open%20to-Internship-16a34a?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Phnom%20Penh%2C%20Cambodia-0a0e27?style=for-the-badge&logo=googlemaps&logoColor=3b82f6" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20to-Internship-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
 
 </div>
 
----
+<br/>
 
+<!-- ═══════════════════════════════════════════════════════════
+     ABOUT
+     ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-## 👋 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
 </div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-Full Stack Developer and final-year **Management Information System** student at **SETEC Institute**. I build complete web applications — from responsive React interfaces to secure REST APIs and well-designed databases — with a strong focus on **authentication** and **role-based access control (RBAC)**.
+<br/>
 
-I work well in teams, enjoy solving problems, and communicate clearly. I'm looking for a **Developer Internship** where I can contribute to real products and keep growing.
+**Full Stack Developer** & final-year **Management Information System** student at **SETEC Institute**.
+
+I craft end-to-end web applications — from pixel-perfect React interfaces to hardened REST APIs and well-normalized databases. My obsession: **authentication**, **role-based access control (RBAC)**, and **clean, maintainable code**.
+
+I thrive in teams, communicate clearly, and I'm actively looking for a **Developer Internship** where I can ship real products and level up fast.
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
+
+<br/>
 
 ### 🎯 Currently
 
 | | |
 | :-- | :-- |
 | **🔨 Building** | Spring Boot REST API |
-| **📚 Learning** | Spring Boot · AWS · C# / Java |
-| **🛡️ Strengthening** | JWT / Sanctum · Clean Code |
+| **📚 Learning** | AWS · C# · Java |
+| **🛡️ Mastering** | JWT · Sanctum · RBAC |
+| **🎯 Goal** | Developer Internship |
 
 </td>
 </tr>
@@ -76,58 +80,27 @@ I work well in teams, enjoy solving problems, and communicate clearly. I'm looki
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════
+     TECH STACK
+     ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
 
-</div>
+<br/>
 
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Security**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-0f172a?style=for-the-badge&logo=shield&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Cloud**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_(Basic)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,java,spring,php,laravel,nodejs,cs,mysql,postgres,mongodb,git,github,gitlab,aws&theme=dark&perline=8" alt="Tech Stack" />
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════
+     PROJECTS
+     ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 </div>
 
@@ -136,17 +109,22 @@ I work well in teams, enjoy solving problems, and communicate clearly. I'm looki
 <td width="50%">
 
 ### 🎓 [School Management System](https://github.com/sakhak/SchoolManagementSystem-RBAC)
-Secure school platform with authentication, protected APIs, user profiles, and role & permission management.
+Secure school platform with authentication, protected APIs, and role/permission management.
 
-`Laravel 12` `React` `TypeScript` `Tailwind` `Sanctum`
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 </td>
 <td width="50%">
 
 ### 📋 [Attendance Management](https://github.com/sakhak/Attendance-Management)
-Attendance system with student, teacher, class, enrollment, and record APIs plus PDF/Excel exports.
+Attendance system with record APIs plus PDF/Excel export and role-based permissions.
 
-`Laravel 12` `React` `TypeScript` `Sanctum`
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
@@ -154,17 +132,20 @@ Attendance system with student, teacher, class, enrollment, and record APIs plus
 <td width="50%">
 
 ### 📚 [Borrow Books Library](https://github.com/sakhak/Borrow-Books-Library)
-Full-stack library platform with admin dashboard to manage users, employees, books, and borrowing.
+Full-stack library platform with admin dashboard for users, books, and borrowing.
 
-`Laravel 12` `React` `Tailwind` `JWT`
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 </td>
 <td width="50%">
 
-### ☕ Spring Boot Project *in progress*
-Backend project built to deepen Java & Spring Boot skills. Repository coming soon.
+### ☕ Spring Boot Project
+Backend built to deepen Java & Spring Boot mastery. Repository coming soon.
 
-`Java` `Spring Boot`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 </td>
 </tr>
@@ -172,9 +153,12 @@ Backend project built to deepen Java & Spring Boot skills. Repository coming soo
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════
+     EXPERIENCE + EDUCATION
+     ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-## 💼 Experience & 🎓 Education
+## 💼 Journey
 
 </div>
 
@@ -183,22 +167,20 @@ Backend project built to deepen Java & Spring Boot skills. Repository coming soo
 <td width="50%" valign="top">
 
 ### 💼 Web Developer Intern
-**Seed Media Solutions**
-*Jan 2025 – Apr 2025*
+**Seed Media Solutions** · *Jan – Apr 2025*
 
-- Developed and maintained web applications using Laravel
+- Developed & maintained Laravel applications
 - Built responsive UIs and backend features
-- Worked with MySQL databases and MVC architecture
-- Fixed bugs and improved website performance
+- Worked with MySQL and MVC architecture
+- Fixed bugs & improved performance
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 SETEC Institute
-**Management Information System**
-*2023 – Present (Year 4)*
+**Management Information System** · *2023 – Present*
 
-Final-year student focused on full stack development, database design, and secure web systems.
+Final-year student focused on full-stack development, database design, and secure web systems.
 
 </td>
 </tr>
@@ -206,37 +188,47 @@ Final-year student focused on full stack development, database design, and secur
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════
+     ANALYTICS
+     ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## 📊 GitHub Analytics
 
-</div>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sakhak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0f172a&title_color=3b82f6&text_color=c9d1d9" alt="Top languages" />
-
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakhak&theme=tokyonight&hide_border=true&background=0f172a&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sakhak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0e27&title_color=3b82f6&icon_color=06b6d4&text_color=c9d1d9&border_radius=12" alt="Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0a0e27&title_color=3b82f6&text_color=c9d1d9&border_radius=12" alt="Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sakhak&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakhak&theme=tokyonight&hide_border=true&background=0a0e27&stroke=3b82f6&ring=06b6d4&fire=3b82f6&currStreakLabel=3b82f6&border_radius=12" alt="Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sakhak&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakhak&bg_color=0a0e27&color=3b82f6&line=06b6d4&point=ffffff&area=true&hide_border=true&radius=12" alt="Activity Graph" />
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════
+     CONNECT
+     ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## 📬 Let's Connect
 
-I'm open to **internship opportunities** and collaboration on web projects.
+*Open to internship opportunities and web project collaborations.*
+
+<br/>
 
 <a href="https://sakhak-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-sakhak--portfolio.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-sakhak--portfolio.vercel.app-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:loeungsakhak438@gmail.com">
   <img src="https://img.shields.io/badge/Email-loeungsakhak438@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -244,8 +236,10 @@ I'm open to **internship opportunities** and collaboration on web projects.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sakhak&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sakhak&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,30:3b82f6,70:1e3a8a,100:0a0e27&height=140&section=footer&animation=fadeIn" alt="footer" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer" alt="" />
