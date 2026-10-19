@@ -32,14 +32,19 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="20%" valign="top" align="center">
+
+<img src="https://github.com/sakhak.png" width="160" height="160" alt="Loeung Sakhak" />
+
+</td>
+<td width="45%" valign="top">
 
 Full Stack Developer and final-year **Management Information System** student at **SETEC Institute**. I build complete web applications — from responsive React interfaces to secure REST APIs and well-designed databases — with a strong focus on **authentication** and **role-based access control (RBAC)**.
 
 I work well in teams, enjoy solving problems, and communicate clearly. I'm looking for a **Developer Internship** where I can contribute to real products and keep growing.
 
 </td>
-<td width="45%" valign="top">
+<td width="35%" valign="top">
 
 ### 🎯 Currently
 
@@ -70,6 +75,7 @@ I work well in teams, enjoy solving problems, and communicate clearly. I'm looki
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Backend**
 
@@ -91,6 +97,7 @@ I work well in teams, enjoy solving problems, and communicate clearly. I'm looki
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & Cloud**
