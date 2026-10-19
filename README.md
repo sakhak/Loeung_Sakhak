@@ -1,10 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Loeung%20Sakhak&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn&fontAlign=50" alt="Loeung Sakhak" />
+<!-- Animated gradient banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&animation=fadeIn" alt="banner" />
 
-<a href="https://sakhak-portfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+secure%2C+scalable+web+applications;Laravel+%7C+React+%7C+Spring+Boot;Authentication+%26+RBAC+Specialist;Open+to+Developer+Internships" alt="Typing SVG" />
-</a>
+<!-- Avatar + Name side-by-side -->
+<table>
+<tr>
+<td valign="middle" align="center" width="200">
+  <img src="https://github.com/sakhak.png?size=200" 
+       width="170" 
+       height="170" 
+       style="border-radius:50%; border: 4px solid #2563eb; box-shadow: 0 0 30px rgba(37,99,235,0.6);" 
+       alt="Loeung Sakhak" />
+</td>
+<td valign="middle" align="left">
+  <h1 style="margin:0; font-size:42px; color:#2563eb;">
+    Loeung Sakhak
+  </h1>
+  <p style="margin:6px 0 0 0; font-size:17px; color:#94a3b8;">
+    <strong>Full Stack Web Developer</strong>
+  </p>
+  <a href="https://sakhak-portfolio.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=800&color=3B82F6&vCenter=true&width=460&lines=Building+secure%2C+scalable+web+apps;Laravel+%7C+React+%7C+Spring+Boot;Authentication+%26+RBAC+Specialist;Open+to+Developer+Internships" alt="Typing SVG" />
+  </a>
+</td>
+</tr>
+</table>
 
 <br/>
 
